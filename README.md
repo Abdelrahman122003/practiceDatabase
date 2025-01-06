@@ -37,3 +37,10 @@ Solve problems for database over many sites like leetcode, hackerrank, and so on
 | Aggregation     | [Link For Solution File](./HackerRank/aggregation.md)    |
 
 ## Notes
+
+| Note About               | Subdomain Link                                       |
+| ------------------------ | ---------------------------------------------------- |
+| Best Way For Write Query | [Link](./notesDuringSolve/bestWayForWriteQuery.md)   |
+| String Functions         | [Link](./notesDuringSolve/stringFunctionDatabase.md) |
+| Window Function          | [Link](./notesDuringSolve/windwoFunction.md)         |
+| Random Notes             | [Link](./notesDuringSolve/notes.md)                  |
