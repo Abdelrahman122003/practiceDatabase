@@ -6,13 +6,22 @@ Solve problems for database over many sites like leetcode, hackerrank, and so on
 
 - [Practice Database Problems](#practice-database-problems)
   - [Table of Contents](#table-of-contents)
+  - [Writing queries tutorial](#writing-queries-tutorial)
   - [LeetCode Problems](#leetcode-problems)
     - [Problems Sections](#problems-sections)
   - [HackerRank Problems](#hackerrank-problems)
     - [Problems Subdomains](#problems-subdomains)
-  - [Notes](#notes)
 
 ---
+
+## Writing queries tutorial
+
+| Note About               | Subdomain Link                          |
+| ------------------------ | --------------------------------------- |
+| String Functions         | [Link](./SQL/stringFunctionDatabase.md) |
+| Tutorial To Write Query  | [Link](./SQL/writeQueriesTutorial.md)   |
+| Window Function          | [Link](./SQL/windowFunction.md)         |
+| Best Way For Write Query | [Link](./SQL/bestWayForWriteQuery.md)   |
 
 ## LeetCode Problems
 
@@ -35,12 +44,3 @@ Solve problems for database over many sites like leetcode, hackerrank, and so on
 | Basic Join      | [Link For Solution File](./HackerRank/basicJoin.md)      |
 | Advanced Join   | [Link For Solution File](./HackerRank/advancedJoin.md)   |
 | Aggregation     | [Link For Solution File](./HackerRank/aggregation.md)    |
-
-## Notes
-
-| Note About               | Subdomain Link                                       |
-| ------------------------ | ---------------------------------------------------- |
-| Best Way For Write Query | [Link](./notesDuringSolve/bestWayForWriteQuery.md)   |
-| String Functions         | [Link](./notesDuringSolve/stringFunctionDatabase.md) |
-| Window Function          | [Link](./notesDuringSolve/windwoFunction.md)         |
-| Random Notes             | [Link](./notesDuringSolve/notes.md)                  |
